@@ -1,0 +1,1 @@
+export { inferTritype } from './enneagram';
